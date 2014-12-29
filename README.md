@@ -1,7 +1,4 @@
 HealthyEating
 =============
 
-Healthy Eating
-
-
-Поехали!!!
+Healthy Eating for iOS
